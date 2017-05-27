@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="samsung.android.test.fragment.FragmentAddClass">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_margin="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Subject"
+            android:padding="16dp" />
+        <Spinner
+            android:id="@+id/spinner_sub"
+            android:layout_width="match_parent"
+            android:popupBackground="@color/background"
+            android:layout_height="wrap_content">
+        </Spinner>
+
+        <EditText
+            android:id="@+id/addclass_classID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Class ID"
+            android:inputType="number"
+            android:textColor="@color/white"
+            android:padding="16dp" />
+        <Button
+            android:id="@+id/btnAddClass"
+            android:text="ADD CLASS"
+            android:layout_margin="16dp"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:theme="@style/AppTheme.Button"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\directory_chooser.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\dirchooser\\build\\intermediates\\bundles\\default\\res\\menu\\directory_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\picker_actions.xml",
+        "source": "C:\\Users\\ketro\\.android\\build-cache\\b4645e73497e5598b7d22abf20d8820598f05257\\output\\res\\menu\\picker_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

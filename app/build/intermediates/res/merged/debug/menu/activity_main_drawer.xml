@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homepage"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="About" />
+        <item
+            android:id="@+id/selected"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="Add information"
+            />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Check attendance" />
+        <item
+            android:id="@+id/nav_csv"
+            android:icon="@drawable/ic_control_point_black_24dp"
+            android:title="@string/import_database" />
+        <item
+            android:id="@+id/nav_statistic"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Statistic" />
+    </group>
+
+</menu>

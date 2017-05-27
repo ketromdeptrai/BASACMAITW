@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\directory_icon.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\drawable-hdpi\\directory_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\directory_up.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\drawable-hdpi\\directory_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_gallery.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_control_point_black_24dp.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_control_point_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_manage.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_send.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_account_box_black_24dp.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_camera.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_black_24dp.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_share.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_slideshow.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\file_icon.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\src\\main\\res\\drawable-hdpi\\file_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_24dp.png",
+        "source": "C:\\Users\\ketro\\Desktop\\android1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    }
+]
