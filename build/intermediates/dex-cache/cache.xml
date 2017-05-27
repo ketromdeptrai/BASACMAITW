@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ketro\Desktop\android1\tableview\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae483b5fafee40303d0fcfecaf60bcaccf451ff">
+        <dex dex="C:\Users\ketro\Desktop\android1\app\build\intermediates\pre-dexed\debug\classes_f6addb270d516d0f3c255e8e8ff68988ed89ccec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ketro\Desktop\android1\app\libs\poi-3.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad21c123ee5d6b5b2a8f0d4ed23b3ffe6759a889">
+        <dex dex="C:\Users\ketro\Desktop\android1\app\build\intermediates\pre-dexed\debug\poi-3.16_31575998f3e8f2a2bdc71440664658c9dc159b17.jar" />
+    </item>
+
+</items>
